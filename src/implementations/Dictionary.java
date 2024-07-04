@@ -6,6 +6,16 @@ import exceptions.DuplicateKeyException;
 import exceptions.KeyNotExistException;
 import utilities.DictionaryADT;
 
+/**
+ * Dictionary class: This class implements the DictionaryADT
+ * It implements the methods to manage the dictionary
+ * 
+ * @author Chunxia Huang, Cankun Na
+ * @param <K>	the type of the key
+ * @param <V>	the type of the value
+ * 
+ */
+
 public class Dictionary<K,V> implements DictionaryADT<K,V>
 {
 	// constant

@@ -10,6 +10,10 @@ import exceptions.DuplicateKeyException;
 import exceptions.KeyNotExistException;
 import implementations.Dictionary;
 
+/**
+ * This is the test class to test the methods in the Dictionary class
+ * @author Chunxia Huang, Cankun Na
+ */
 public class DictionaryTest {
 
 	private Dictionary<Integer, String> dic;
@@ -23,7 +27,7 @@ public class DictionaryTest {
 	}
 
 	/**
-	 * @After - will execute the method after each test
+	 * @After - will execute the method after each test      
 	 * @throws Exception
 	 */
 	@After

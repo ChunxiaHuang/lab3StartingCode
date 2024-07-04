@@ -6,7 +6,7 @@ import exceptions.KeyNotExistException;
 /**
 * DictionaryADT.java
 *
-* @author Chunxia Huang
+* @author Chunxia Huang, Cankun Na
 * @version major.minor revision number starting at 1.0
 * 
 * Class Definition: This interface represents the public contract for the
